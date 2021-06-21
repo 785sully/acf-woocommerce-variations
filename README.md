@@ -1,7 +1,7 @@
 # acf-woocommerce-variations
 This is collection of files from various blog posts that add Advanced Custom Field support to WooCommerce variations.
 
-Advanced Custom Fields doesn't support product varaitions out of the box but you can add support by adding the acf-variations.php code to your project. You do that either by pasting the code directly into your functions.php file or linking to it from the functions.php file.
+Advanced Custom Fields doesn't support product variations out of the box but you can add support by adding the acf-variations.php code to your project. You do that either by pasting the code directly into your functions.php file or linking to it from the functions.php file.
 ```php
 require get_template_directory() . '/functions/acf-variations.php';
 ```
